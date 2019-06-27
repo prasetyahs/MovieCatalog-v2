@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="vertical">15dp</dimen>
+    <dimen name="horizontal">15dp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="txt_title">20sp</dimen>
+    <dimen name="overviewtext">17sp</dimen>
+
+</resources>
